@@ -30,7 +30,7 @@ Para cada uno de los grafos generados, se aplicaron los siguientes métodos part
 
 **Requisitos Previos:**
 *   Python 3.x
-*   **Gephi**: Software de análisis espacial (utilizando preferentemente el algoritmo de repulsión *ForceAtlas 2*) para interpretar la topología de los archivos exportados.
+*   **Gephi**: Software de análisis espacial (utilizando preferentemente el algoritmo de repulsión *Yifan Hu proporcional*) para interpretar la topología de los archivos exportados.
 
 **Instrucciones de Uso:**
 Para generar los archivos `.gv` de los 6 modelos y sus 3 tamaños de forma automática, ejecutar el script principal desde la terminal:
